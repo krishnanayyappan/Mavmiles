@@ -1,0 +1,21 @@
+1,,18:30,,18:00,5,Y,Y,Y,Y,Please correct the following errors,Start Date cannot be blank,,End Date cannot be blank,,,,,,,X
+2,2017-10-27,18:30,,18:00,5,Y,Y,Y,Y,Please correct the following errors,Start Date should be a current/future date,,End Date cannot be blank,,,,,,,X
+3,2018-12-10,18:30,,18:00,5,Y,Y,Y,Y,Please correct the following errors,,,End Date cannot be blank,,,,,,,X
+4,2018-12-32154,18:30,12342018-12-05,18:00,5,Y,Y,Y,Y,Please correct the following errors,Invalid date format,,Invalid date format,,,,,,,X
+5,2018-12-16,18:30,2018-12-18,18:00,5,Y,Y,Y,Y,Please correct the following errors,,Sunday working hours - 12:00 to 17:00 hrs,,,,,,,,X
+6,2018-12-16,09:30,2018-12-18,18:00,5,Y,Y,Y,Y,Please correct the following errors,,Sunday working hours - 12:00 to 17:00 hrs,,,,,,,,X
+7,2018-12-12,18:30,2018-12-12,18:00,5,Y,Y,Y,Y,Please correct the following errors,,,,End time should be after the Start time,,,,,,X
+8,2018-12-16,12:30,2018-12-15,16:00,5,Y,Y,Y,Y,Please correct the following errors,,,End Date should be after Start Date,,,,,,,X
+9,2018-12-09,15:30,2018-12-09,14:00,5,Y,Y,Y,Y,Please correct the following errors,,,,End time should be after the Start time,,,,,,X
+10,2018-12-08,18:30,2018-12-15,18:00,5,Y,Y,Y,Y,Please correct the following errors,,,,Saturday working hours - 08:00 to 17:00 hrs,,,,,,X
+11,2018-12-08,18:30,2018-12-16,18:00,5,Y,Y,Y,Y,Please correct the following errors,,,,Sunday working hours - 12:00 to 17:00 hrs,,,,,,X
+12,2018-12-10,13:00,2018-12-12,18:00,5,Y,Y,Y,Y,,,,,,,,,,,Valid inputs
+13,2018-12-09,13:00,2018-12-16,09:00,5,Y,Y,Y,Y,Please correct the following errors,,,,Sunday working hours - 12:00 to 17:00 hrs,,,,,,X
+14,2018-12-08,18:30,2018-12-10,16:00,5,Y,Y,Y,Y,,,,,,,,,,,X
+15,,18:30,2018-12-10,15:00,5,Y,Y,Y,Y,Please correct the following errors,Start Date cannot be blank,,,,,,,,,X
+16,2018-12-11,13:30,2018-12-12,16:00,5,Y,Y,Y,Y,,,,,,,,,,,X
+17,2018-12-10,13:30,2018-12-11,16:00,5,Y,Y,Y,Y,,,,,,,,,,,X
+18,2018-12-10,13:30,2018-12-10,16:00,5,Y,Y,Y,Y,,,,,,,,,,,X
+19,,18:00,,18:30,5,Y,Y,Y,Y,Please correct the following errors,Start Date cannot be blank,,End Date cannot be blank,,,,,,,X
+20,2018-12-10,18:00,,18:30,5,Y,Y,Y,Y,Please correct the following errors,,,End Date cannot be blank,,,,,,,X
+21,,18:00,2018-12-10,18:30,5,Y,Y,Y,Y,Please correct the following errors,Start Date cannot be blank,,,,,,,,,X

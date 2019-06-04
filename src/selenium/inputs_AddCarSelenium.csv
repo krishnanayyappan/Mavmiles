@@ -1,0 +1,10 @@
+1,,LPL9959,5,36.99,45.99,400.99,3,5,7,XUV,LPL9959,5,36.99,45.99,400.99,3,5,7,Please correct the following errors,Car Name cannot be blank,,,,,,,,
+2,XUV,,5,36.99,45.99,400.99,3,5,7,XUV,LPL9960,5,36.99,45.99,400.99,3,5,7,Please correct the following errors,,License ID cannot be blank,,,,,,,
+3,XUV,LPGL9961,5,36.99,45.99,400.99,3,5,7,XUV,LPL9961,5,36.99,45.99,400.99,3,5,7,Please correct the following errors,,License ID must be 7 characters,,,,,,,
+4,XUV,LPL9962,15,36.99,45.99,400.99,3,5,7,XUV,LPL9962,6,36.99,45.99,400.99,3,5,7,Please correct the following errors,,,Capacity should be in the range 1 to 9,,,,,,
+5,XUV,LPL9963,6,0,45.99,400.99,3,5,7,XUV,LPL9963,6,36.99,45.99,400.99,3,5,7,Please correct the following errors,,,,Weekday Rate should be greater than zero,,,,,
+6,XUV,LPL9964,6,36.99,0,400.99,3,5,7,XUV,LPL9964,6,36.99,45.99,400.99,3,5,7,Please correct the following errors,,,,,Weekend Rate should be greater than zero,,,,
+7,XUV,LPL9965,6,36.99,45.99,0,3,5,7,XUV,LPL9965,6,36.99,45.99,400.99,3,5,7,Please correct the following errors,,,,,,Week Rate should be greater than zero,,,
+8,XUV,LPL9966,6,36.99,45.99,400.99,0,5,7,XUV,LPL9966,6,36.99,45.99,400.99,3,5,7,Please correct the following errors,,,,,,,OnStar Rate should be greater than zero,,
+9,XUV,LPL9967,6,36.99,45.99,400.99,3,0,7,XUV,LPL9967,6,36.99,45.99,400.99,3,5,7,Please correct the following errors,,,,,,,,GPS Rate should be greater than zero,
+10,XUV,LPL9968,6,36.99,45.99,400.99,3,5,0,XUV,LPL9968,6,36.99,45.99,400.99,3,5,7,Please correct the following errors,,,,,,,,,SiriusXM Rate should be greater than zero
