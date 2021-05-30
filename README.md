@@ -1,6 +1,6 @@
 Mavmiles
 
-This is an academic project wherein a web application for Car rental system was developed and tested using jUnit & Selenium Webdriver
+This is an academic project wherein a web application for Car rental system was developed and tested using jUnit, JaCoCo, and Selenium Webdriver
 
 Features of this application:
 
